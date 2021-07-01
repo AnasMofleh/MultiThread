@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="870b0f09-7eaa-4622-816a-a7c0284c3c8a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3-lift/lab3-lift.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lab3-lift/lab3-lift.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3-lift/src/OnePersonRidesLift.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab3-lift/src/OnePersonRidesLift.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab1-alarmclock/clock/Clock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab1-alarmclock/clock/Clock.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="Make.Settings">
+    <option name="path" value="C:\Program Files (x86)\GnuWin32\bin\make.exe" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1RWQiNsNgNvvV1aFLvHno1ef34T" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files (x86)/GnuWin32/bin/make.exe" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.make" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Wash">
+    <configuration name="ClockMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClockMain" />
+      <module name="lab1-alarmclock" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnePersonRidesLift" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OnePersonRidesLift" />
+      <module name="lab3-lift" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Wash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.Wash" />
+      <module name="lab5-washing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="all (2)" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/lab6-chat/server/Makefile" target="all" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="all (3)" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/lab6-chat/server/Makefile" target="all" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Wash" />
+        <item itemvalue="Application.OnePersonRidesLift" />
+        <item itemvalue="Application.ClockMain" />
+        <item itemvalue="Makefile.all (3)" />
+        <item itemvalue="Makefile.all (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="870b0f09-7eaa-4622-816a-a7c0284c3c8a" name="Default Changelist" comment="" />
+      <created>1569780498628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569780498628</updated>
+      <workItem from="1569780500543" duration="872000" />
+      <workItem from="1569954288420" duration="16915000" />
+      <workItem from="1570029482201" duration="13086000" />
+      <workItem from="1570169878181" duration="1276000" />
+      <workItem from="1570428829002" duration="10000" />
+      <workItem from="1570465190674" duration="171000" />
+      <workItem from="1570465439106" duration="234000" />
+      <workItem from="1570465992287" duration="728000" />
+      <workItem from="1570466802381" duration="2062000" />
+      <workItem from="1570522543341" duration="249000" />
+      <workItem from="1570522811284" duration="18000" />
+      <workItem from="1570697206488" duration="710000" />
+      <workItem from="1570711469523" duration="121000" />
+      <workItem from="1570810630289" duration="264000" />
+      <workItem from="1572517503580" duration="873000" />
+      <workItem from="1572701885101" duration="146000" />
+    </task>
+    <task id="LOCAL-00001" summary="done">
+      <created>1569781349058</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569781349058</updated>
+    </task>
+    <task id="LOCAL-00002" summary="working">
+      <created>1570030990104</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570030990104</updated>
+    </task>
+    <task id="LOCAL-00003" summary="washing program 1 klar">
+      <created>1570089228452</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1570089228452</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Finished">
+      <created>1570126701598</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1570126701598</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done" />
+    <MESSAGE value="working" />
+    <MESSAGE value="washing program 1 klar" />
+    <MESSAGE value="Finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished" />
+  </component>
+</project>
